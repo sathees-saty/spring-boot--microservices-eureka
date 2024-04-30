@@ -38,6 +38,18 @@
 * ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/7101d4eb-027a-41fc-869a-fcd6acf796d3)
 * ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/2b975bea-a750-4971-9cba-a765e63e99a9)
 * You can test the same in postman also
-* 
+# Steps 3 Create with project name eurekaclient as Spring Starter project as microservice and register with EurekaServer
+* Add dependencies
+* 1.	Spring Boot Actuator
+* 2.	Eureka Discovery Client
+* 3.	Spring Data JPA
+* 4.	H2 Database
+* 5.	Rest Repositories
+* 6.	Spring Web
+* 7.	Spring boot Dev tools
+* 8.	Lombok
+* 9.	thymeleaf
+* Update Application class file with annontations
+* update application.properties 
 
 
