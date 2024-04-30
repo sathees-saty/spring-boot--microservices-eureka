@@ -4,7 +4,8 @@
 
 * Spring Boot Microservices - Spring Cloud Netflix Eureka based Service Registry
 * ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/5e4598b4-6319-4fab-a6be-dcdf3b0a0299)
-* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/aeb303d8-0b2e-48b6-aa96-9c6b90734a88)
+* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/d7460a84-b267-464f-a093-5c06f57a7696)
+
 
 # Steps 1 create EurekaServer
 * File -> Spring starter project -> EurekaServer
