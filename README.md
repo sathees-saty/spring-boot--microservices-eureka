@@ -3,7 +3,8 @@
 * **Eureka Service–**  This Service will register every microservice and then the client microservice will look up the Eureka server to get a dependent microservice to get the job done.This Eureka Server is owned by Netflix and in this, Spring Cloud offers a declarative way to register and invoke services by Java annotation.
 
 * Spring Boot Microservices - Spring Cloud Netflix Eureka based Service Registry
-![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/5e4598b4-6319-4fab-a6be-dcdf3b0a0299)
+* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/5e4598b4-6319-4fab-a6be-dcdf3b0a0299)
+* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/aeb303d8-0b2e-48b6-aa96-9c6b90734a88)
 
 # Steps 1 create EurekaServer
 * File -> Spring starter project -> EurekaServer
