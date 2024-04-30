@@ -65,4 +65,7 @@
 * http://localhost:8080/ and http://localhost:8080/welcome
 * ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/feabd43a-b634-4c2e-913a-ee000da26ba2)
 * ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/70e881ea-fcc4-4cd9-8923-ce6834324e00)
+* Stop the item-catalog and eurekaclient applications and check the EurekaServer in http://localhost:8761/.
+* You can see the 2 services are down
+* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/3e8b7bc8-9b54-4b40-995d-5da4d23821a4)
 
