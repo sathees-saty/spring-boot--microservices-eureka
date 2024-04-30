@@ -51,5 +51,11 @@
 * 9.	thymeleaf
 * Update Application class file with annontations
 * update application.properties 
-
+* Run application class as spring boot application
+* Open http://localhost:8761/ and check 2 services are registered and services are up
+* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/a710862e-cc52-4822-81d7-c424d7d77cd3)
+* Run below url in browser:
+* http://localhost:8080/ and http://localhost:8080/welcome
+* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/feabd43a-b634-4c2e-913a-ee000da26ba2)
+* ![image](https://github.com/sathees-saty/spring-boot--microservices-eureka/assets/65384711/70e881ea-fcc4-4cd9-8923-ce6834324e00)
 
